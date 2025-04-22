@@ -30,11 +30,16 @@ A full-stack real-time chat application built with **MongoDB**, **Express**, **R
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-> Add your project screenshots here  
-> _(example)_  
-> ![Chat Screen](./screenshots/chat-page.png)
+### Login Page
+![Login Page](./frontend/assests/login-page.png)
+
+### SignUp_page
+![Online Status](./frontend/assests/SignUp-page.png)
+
+### Chat Room
+![Chat Room](./frontend/assests/chat-room.png)
 
 ---
 
@@ -148,13 +153,5 @@ npm install
 npm start
 ```
 
-## Screenshots
 
-### Login Page
-![Login Page](./assets/login-page.png)
 
-### Chat Room
-![Chat Room](./assets/chat-room.png)
-
-### Online Status
-![Online Status](./assets/online-status.png)
